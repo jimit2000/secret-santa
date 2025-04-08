@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Digital XC project processes employee data from CSV files to associate employees with their children and generates a new CSV file with the processed information.
+The Digital XC project processes employee data from CSV files to associate employees with their secret child and generates a new CSV file with the processed information.
 
 ## Project Structure
 
